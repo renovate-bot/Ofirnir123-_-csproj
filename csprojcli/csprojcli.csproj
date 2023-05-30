@@ -5,7 +5,7 @@
      <TargetFramework>net6.0</TargetFramework>
     <LangVersion>latest</LangVersion>
     <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
-    <!-- see https://github.com/dotnet/docs/issues/12237 -->
+    <!-- see https://github.com/dotnet/docs/issues/12237 -->   
 
     <!-- Version is override on CI -->   
     <Version>1.0.0.0</Version>
